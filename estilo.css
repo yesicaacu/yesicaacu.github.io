@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+  
+    background-color:lavenderblush;
+  }
+  
+  h5 {
+    text-align: center;
+    color: black;
+    font-size: 5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+  }
+  p{
+    color: black;
+    font-size:2rem;
+    font-family:'roboto', sans-serif;
+  }
+  
+  nav ul li {
+    color: olivedrab;
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+  
+  
+  }
